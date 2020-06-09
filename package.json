@@ -1,0 +1,21 @@
+{
+  "name": "npm-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "files": ["index.js"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bradgarropy/npm-stream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradgarropy/npm-stream/issues"
+  },
+  "homepage": "https://github.com/bradgarropy/npm-stream#readme"
+}
