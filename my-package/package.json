@@ -1,23 +1,32 @@
 {
-  "name": "my-package",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "files": [
-    "index.js"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/bradgarropy/my-package.git"
-  },
-  "keywords": ["npm", "stream", "livestream", "james quick", "publish", "package", "registry"],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/bradgarropy/my-package/issues"
-  },
-  "homepage": "https://github.com/bradgarropy/my-package#readme"
+    "name": "@bradgarropy/my-package",
+    "version": "0.0.1",
+    "description": "My first npm package.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "files": [
+        "index.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/bradgarropy/npm-publish.git"
+    },
+    "keywords": [
+        "npm",
+        "publish",
+        "package",
+        "registry"
+    ],
+    "author": {
+        "name": "Brad Garropy",
+        "email": "bradgarropy@gmail.com",
+        "url": "https://bradgarropy.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/bradgarropy/npm-publish/issues"
+    },
+    "homepage": "https://github.com/bradgarropy/npm-publish#readme"
 }
